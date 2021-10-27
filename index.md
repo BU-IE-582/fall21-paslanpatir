@@ -1,3 +1,5 @@
-# Journal of Assignments
+# Pelin's Journal on Coding
 
-My name is Pelin Yurdadön.
+## Assignment 1
+[Here](Assignment_1.html) includes my study for assignment 1.
+
