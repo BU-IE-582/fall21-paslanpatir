@@ -1,5 +1,7 @@
 # Pelin's Journal on Coding
 
+The link of my journal is https://bu-ie-582.github.io/fall21-yurdadonpelin/ 
+
 ## Assignment 1
 [Here](Assignment_1.html) includes my study for assignment 1.
 
