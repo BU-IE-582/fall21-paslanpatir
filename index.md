@@ -10,3 +10,6 @@ The link of my journal is https://bu-ie-582.github.io/fall21-yurdadonpelin/
 
 ## Assignment 3 _ kNN and Logistic Regression
 [Here](Assignment3.html) includes my study for assignment 3.
+
+
+## Assignment 4
