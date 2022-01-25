@@ -14,3 +14,5 @@ The link of my journal is https://bu-ie-582.github.io/fall21-yurdadonpelin/
 ## Assignment 4 _ Multiple Instance Learning
 [Here](Assignment_4_BagLevelAggregation.html) includes my study for assignment 4.
 
+## Project 
+[Here](Report.pdf) includes the project report.
